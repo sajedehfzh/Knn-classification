@@ -1,5 +1,3 @@
-# Knn-classification
+# Knn-classification and logestic regression
 
-![alt text](https://github.com/sajedehfzh/Knn-classification/blob/main/clasification.jpg)
-knn classifier(binary) to predict cancer work on breast_cancer dataset from sklearn to diagnosing canser case 
-that can see plot result below.
+in this project I implement knn classifier and and logestic regression to analyze data and 
